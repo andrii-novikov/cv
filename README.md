@@ -1,19 +1,21 @@
-# **ANDRII NOVIKOV1 – SENIOR SOFTWARE ENGINEER**
+# **ANDRII NOVIKOV1 – LEAD SOFTWARE ENGINEER**
 
 ## SUMMARY
 
-Experienced Senior Software Engineer with over 10 years in the industry and strong experience with Ruby. At the beginning of my career, I worked with PHP for about 2 years and then switched to Ruby. Experienced in developing and maintaining web applications using agile methodologies and delivering high-quality, scalable, and maintainable code. Confident experience with RESTful services, microservices, and automated tests using RSpec and Capybara. Good understanding of CI/CD, Cloud, and deployment processes. Has experience with AWS, Terraform, Chef, and Capistrano
+Experienced Lead Software Engineer with over 10 years in the industry and strong experience with Ruby.
+At the beginning of my career, I worked with PHP for about 2 years and then switched to Ruby. Additionally, I have experience with Golang, Python and NodeJS. however, I have no commercial experience with them.
+Experienced in developing and maintaining web applications using agile methodologies and delivering high-quality, scalable, and maintainable code. Confident experience with RESTful services, microservices, and automated tests. Good understanding of CI/CD, Cloud, deployment processes, and unix operation systems.
 
-I also have experience in communicating with customers, discussing possibilities, preparing technical designs for features, and conducting demonstrations for customers
+Also, I have an expirience in people management, leading teams and projects, and mentoring junior developers.
+Currently I playing a resource manager helping people to grow and team lead role on a project.
 
-All the time, I strive to keep abreast of the latest web technologies and constantly improve my development skills. At the beginning of 2022, I successfully completed the Switch to Go Mentoring Program and gained Golang as a secondary skill. I am also familiar with Python and NodeJS; however, I have no commercial experience with them
+All the time, I strive to keep abreast of the latest web technologies and constantly improve my development skills. In my free time, I am interested in software architecture, IoT, and electronics design
 
-In my free time, I am interested in software architecture, IoT, and electronics design
-
-## CERTIFICATES
+## CERTIFICATES and TRAININGS
 
 - EPAM: AI Literacy Program, 2024
 - Microsoft: Microsoft Certified: Azure Developer Associate (AZ-204), 2024
+- EPAM: Switch to golang mentorship program, 2022
 
 ## SKILLS
 
