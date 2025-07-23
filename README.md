@@ -162,52 +162,47 @@ Last year I interested in Artificial Intelligence. Playing with AI models and bu
 - Code review of team members
 - Leading a small team
 
-## CERTIFICATES AND TRAININGS
-
-- EPAM: AI Literacy Program, 2024
-- Microsoft: Microsoft Certified: Azure Developer Associate (AZ-204), 2024
-- EPAM: Switch to golang mentorship program, 2022
-
 ## SKILLS
 
 ### **Languages**
 - Ukrainian (Native),
 - English (B2)
 
----
+### **👨‍💼 Leadership & Soft Skills**
 
-### **👨‍💼 Leadership & Management**
+#### **Engineering Leadership**
+- Technical Team Leadership
+- Cross-functional Team Coordination
+- Technical Decision Making & Architecture Guidance
+- Engineering Culture Development
+- Technical Mentoring
+- Code Review & Quality Standards
 
-#### **Technical Leadership**
-- Team Leadership (up to 9 members)
-- Software Engineering Management
-- Technical Mentoring & Developing Others
-- Engineering Excellence & Best Practices
+#### **People Management & Development**
+- Performance Management & Career Development
+- Team Onboarding & Skills Assessment
+- Conflict Resolution & Mediation
+- Individual Coaching & Mentoring
 
-#### **People Management**
-- Onboarding & Adaptation
-- Performance Management & Motivation
-- Conflict Resolution & Team Building
-- EPAM People Management Processes
+#### **Communication & Stakeholder Management**
+- Technical Communication to Non-technical Audiences
+- Cross-team Collaboration
+- Meeting Facilitation & Workshop Leadership
+- Technical Presentation & Documentation
 
-#### **Soft Skills**
-- **Strategic:** Driving Change & Innovation, Business Acumen, Critical Thinking
-- **Collaborative:** Teamwork, Consultancy, Accountability, Problem-Solving
-- **Personal:** Adaptability, Continuous Learning, Self-Management, Ownership
-- **Inclusive:** Diversity, Equity, and Inclusion
+#### **Project & Process Leadership**
+- Agile/Scrum Methodologies
+- Project Planning & Timeline Estimation
+- Quality Assurance & Engineering Excellence
+- Incident Response & Crisis Management
 
-#### **Project Management**
-- Scrum Master & Agile Methodologies
-- Quality Management
-- Resource Planning & Estimation
-<!-- - **Business Communication:** Interviewing, Negotiations, Conflict Management, Meeting Facilitation -->
-
-#### **Project Management & Collaboration**
-- **Tools:** Atlassian Jira, Slack
-- **Standards:** REST API, OpenAPI Specification
-- **Methodologies:** Scrum, Agile, Kanban
-
----
+#### **Personal Excellence**
+- Continuous Learning & Technology Adaptation
+- Critical Thinking & Problem-Solving
+- Accountability & Ownership Mindset
+- Adaptability & Resilience
+- Time Management & Prioritization
+- Self-Management & Emotional Intelligence
 
 ### **🛠️ Technical Skills**
 
@@ -276,17 +271,16 @@ Last year I interested in Artificial Intelligence. Playing with AI models and bu
 - **Agentic IDE**: Cursor, Zed
 - **Tools**:
 
- ---
+## CERTIFICATES AND TRAININGS
+
+- **EPAM**: AI Literacy Program, 2024
+- **Microsoft**: Microsoft Certified: Azure Developer Associate (AZ-204), 2024
+- **EPAM**: Switch to golang mentorship program, 2022
+- **Rubygarage**: Dive into Ruby, 2016
 
 ## EDUCATION
 
-**Name of the Education Establishment:** UKRAINIAN STATE UNIVERSITY OF CHEMICAL TECHNOLOGY
-
-**Faculty/College:** Computer Science and Engineering
-
-**Department:** Information Systems and Technologies
-
+2010 - 2016 - **UKRAINIAN STATE UNIVERSITY OF CHEMICAL TECHNOLOGY**\
+**Faculty/College:** Computer Science and Engineering\
+**Department:** Information Systems and Technologies\
 **Degree (diploma):** Master
-
-
-Confidential | July, 2025	XXX
