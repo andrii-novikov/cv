@@ -1,4 +1,4 @@
-# **ANDRII NOVIKOV1 – LEAD SOFTWARE ENGINEER**
+# **LEAD SOFTWARE ENGINEER**
 
 ## SUMMARY
 
@@ -9,72 +9,22 @@ Experienced in developing and maintaining web applications using agile methodolo
 Also, I have an expirience in people management, leading teams and projects, and mentoring junior developers.
 Currently I playing a resource manager helping people to grow and team lead role on a project.
 
-All the time, I strive to keep abreast of the latest web technologies and constantly improve my development skills. In my free time, I am interested in software architecture, IoT, and electronics design
+All the time, I strive to keep abreast of the latest web technologies and constantly improve my development skills.
+In my free time, I am interested in devOps(building a small home lab), IoT, drones, and electronics design
+Last year I interested in Artificial Intelligence. Playing with AI models and building small projects.
 
-## CERTIFICATES and TRAININGS
 
-- EPAM: AI Literacy Program, 2024
-- Microsoft: Microsoft Certified: Azure Developer Associate (AZ-204), 2024
-- EPAM: Switch to golang mentorship program, 2022
-
-## SKILLS
-
-### **Academic Disciplines**
-
-- **Humanities:** Ukrainian
-- **Applied Sciences:** SOLID (object-oriented design principles), Clean Code, Test-Driven Development (TDD), Algorithms & Data structures, Microservice Architecture Style, Software Maintenance, Domain-Driven Design (DDD), Data Structures, Concurrent Computing, Design patterns, Software Architectural Styles
-
-### **Business Functions**
-
-- **Corporate Communications:** Interviewing
-
-### **Engineering Practices**
-
-- **Advanced Technology:** Python Functions, Software Engineering Knowledge & Experience, Python OOP, Cloud Fundamentals, GenAI Pair Programming, Continuous Integration, Software Engineering Processes, Ruby Web Development, Golang Packages, Software Design, AT/Go Language, Prompt Engineering, Prompt Engineering for Dev Productivity, Troubleshooting, Debugging, Golang Variables & Constants, Engineering Excellence, Ruby Development, Software Engineering Practices, Generative AI Fundamentals, Gitflow, Go Core, Writing API Documentation, Profiling, Concurrency, Python.Core
-- **Cloud:** Cloud
-- **Management:** Software Engineering Management
-- **Quality Engineering:** Unit Testing
-
-### **Leadership & Soft Skills**
-
-- **Leadership:** Influencing, Leadership, Driving Change and Innovation, Developing Others, Mentoring
-- **Communication:** Communication, Negotiations, Conflict management, Meeting Facilitation
-- **Consultancy:** Consultancy
-- **Business Acumen:** Business Acumen
-- **Diversity, Equity, and Inclusion:** Diversity, Equity, and Inclusion
-- **Teamwork and Collaboration:** Teamwork and Collaboration, Team Management
-- **Growth Mindset:** Critical Thinking, Adaptability, Continuous learning
-- **Ownership:** Accountability, Self-Management, Ownership, Problem-solving
-
-### **Managerial**
-
-- **People Management:** Onboarding and Adaptation, Motivation, Navigating EPAM people management processes
-- **General Management:** Quality Management, Scrum
-
-### **Technologies**
-
-- **IDEs:** Cursor code editor
-- **Infrastructure:** Capistrano
-- **Frameworks:** Angular, Unit Testing Tools, ReactJS, AngularJS, RubyOnRails
-- **Computer Languages:** SASS/SCSS, Ruby ORM, ECMAScript, FactoryBot, Grape, Sidekiq, Ruby Frameworks, TypeScript, ActiveRecord, Python, Rspec, Ruby MRI, RubyGems, Capybara, PHP, Carrierwave, Byebug, Ruby-JWT, HTML, SQL, EventMachine, Ruby Libraries, JavaScript, UNIX shell scripting, Roda, Rbenv, RVM, CSS, Devise, Ruby, Go Language
-- **Solutions:** Azure CLI, Jenkins, Elasticsearch, Gitlab, RuboCop, GitHub, Atlassian Jira
-- **Platforms:** Azure Container Instances, Salesforce Heroku, Amazon Web Services, Apache ActiveMQ Classic, Docker, Azure Functions, Azure Event Grid, Azure Cost Management + Billing, Kubernetes, Azure Cloud Shell, Azure Container Registry, Azure App Configuration, Azure API Management, Microsoft Azure
-- **Data:** NoSQL Databases, RDBMS Tools, MySQL, MongoDB, Azure Cosmos DB, Redis, PostgreSQL, SQLite
-- **Libraries:** lodash, React Router
-- **Tools:** Simplecov
-- **Standards:** REST API, Git, OpenAPI Specification (OAS)
 
 ## WORK EXPERIENCE
 
-**May-2024 - Jul-2025** - EPAM Systems, <https://www.epam.com/>
+### **May-2024 - Jul-2025** - EPAM Systems
 
-**Project Roles:** Engineering Team Lead, Developer
-
-**Client:** Ticketmaster
-
-**Client Description:** Business Information & Media
-
-**EPAM Project Description:** Platform and Product Development for Ticketmaster Universe Platform
+**Project Roles:** Engineering Team Lead, Developer\
+**Client:** Ticketmaster\
+**Client Description:** Business Information & Media\
+**EPAM Project Description:** Platform and Product Development for Ticketmaster Universe Platform\
+**Tools and Technologies:** Ruby, RubyOnRails, ReactJS, PostgreSQL, MongoDB, ArgoCD, Google Cloud, Kubernetes, Mocha, Playwright, Clickhouse, Kafka\
+**Team:** BA, QA, AQA, 4 FE, 2 BE
 
 **Responsibilities:**
 
@@ -90,25 +40,14 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Communicated effectively with the customer team to align on goals, requirements, and deliverables
 - Developed new features to enhance application functionality and meet user requirements
 
-**Tools and Technologies:**
+### **Jan-2024 - May-2024** - EPAM Systems
 
-- Ruby, RubyOnRails, ReactJS, PostgreSQL, MongoDB, ArgoCD, Google Cloud, Kubernetes, Mocha, Playwright, Clickhouse, Kafka
-
-**Team:**
-
-- BA, QA, AQA, 4 FE, 2 BE
-
----
-
-**Jan-2024 - May-2024** - EPAM Systems, <https://www.epam.com/>
-
-**Project Roles:** Key Developer
-
-**Client:** Ticketmaster
-
-**Client Description:** Media & Entertainment: Event ticketing platform
-
-**EPAM Project Description:** Platform and Product Development for Ticketmaster Universe Platform
+**Project Roles:** Key Developer\
+**Client:** Ticketmaster\
+**Client Description:** Media & Entertainment: Event ticketing platform\
+**EPAM Project Description:** Platform and Product Development for Ticketmaster Universe Platform\
+**Tools and Technologies:** Tekton Pipelines, RubyOnRails, Ruby, gRPC, PostgreSQL, MongoDB\
+**Team:** 3 developers, QA, AQA, BA
 
 **Responsibilities:**
 
@@ -117,25 +56,14 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Developed new features to meet project requirements and improve user experience
 - Supported the team lead with activities such as client communication, SCRUM processes, and project discovery
 
-**Tools and Technologies:**
+### **Mar-2022 - Dec-2023** - EPAM Systems
 
-- Tekton Pipelines, RubyOnRails, Ruby, gRPC, PostgreSQL, MongoDB
-
-**Team:**
-
-- 3 developers, QA, AQA, BA
-
----
-
-**Mar-2022 - Dec-2023** - EPAM Systems, <https://www.epam.com/>
-
-**Project Roles:** Key Developer
-
-**Client:** Oracle Health
-
-**Client Description:** Software & Hi-Tech
-
-**EPAM Project Description:** Consumer group
+**Project Roles:** Key Developer\
+**Client:** Oracle Health\
+**Client Description:** Software & Hi-Tech\
+**EPAM Project Description:** Consumer group\
+**Tools and Technologies:** Splunk, Spinnaker, RubyOnRails, Ruby, RuboCop, Rspec, OpenAPI Specification (OAS), Jenkins, Grape, MySQL\
+**Team:** FE: 3, BE: 3, QA: 1, BA: 1, PM: 1
 
 **Responsibilities:**
 
@@ -147,25 +75,14 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Code reviews
 - Supporting team lead
 
-**Tools and Technologies:**
+### **Feb-2021 - Mar-2022** - EPAM Systems
 
-- Splunk, Spinnaker, RubyOnRails, Ruby, RuboCop, Rspec, OpenAPI Specification (OAS), Jenkins, Grape, MySQL
-
-**Team:**
-
-- FE: 3, BE: 3, QA: 1, BA: 1, PM: 1
-
----
-
-**Feb-2021 - Mar-2022** - EPAM Systems, <https://www.epam.com/>
-
-**Project Roles:** Key Developer
-
-**Client:** Oracle Health
-
-**Client Description:** Software & Hi-Tech
-
-**EPAM Project Description:** Enhance Cerner products to comply with the 21st Century Cures Act
+**Project Roles:** Key Developer\
+**Client:** Oracle Health\
+**Client Description:** Software & Hi-Tech\
+**EPAM Project Description:** Enhance Cerner products to comply with the 21st Century Cures Act\
+**Tools and Technologies:** Splunk, Spinnaker, RubyOnRails, Ruby, Rspec, OpenAPI Specification (OAS), Jenkins, Grape, Docker, MySQL\
+**Team:** 4 Backend Developers, 1 Frontend Developer, 2 Q&A, 1 BA, 1 PM
 
 **Responsibilities:**
 
@@ -175,23 +92,13 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Technical support for non-technical part of team
 - Develop tech designs
 
-**Tools and Technologies:**
+### **Sep-2020 - Feb-2021** - Rubygarage - ExposureDB
 
-- Splunk, Spinnaker, RubyOnRails, Ruby, Rspec, OpenAPI Specification (OAS), Jenkins, Grape, Docker, MySQL
-
-**Team:**
-
-- 4 Backend Developers, 1 Frontend Developer, 2 Q&A, 1 BA, 1 PM
-
----
-
-**Sep-2020 - Feb-2021** - Rubygarage - ExposureDB
-
-**Project Roles:** Senior Ruby Developer
-
-**Client:** ExposureDb CTO
-
-**Project Description:** Exposure is a real-time analytics platform for offline marketing and event industry professionals
+**Project Roles:** Senior Ruby Developer\
+**Client:** ExposureDb CTO\
+**Project Description:** Exposure is a real-time analytics platform for offline marketing and event industry professionals\
+**Tools and Technologies:** Ruby ORM, Ruby Frameworks, Ruby, Rspec, Capybara, AngularJS, Amazon Web Services, PostgreSQL\
+**Team:** 2 Fullstack Developers, 1 Q&A, 1 BA
 
 **Responsibilities:**
 
@@ -202,23 +109,13 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Deploy applications to Development/Staging/Production areas
 - Provide consulting for non-technical participants of a team
 
-**Tools and Technologies:**
+### **Dec-2016 - Sep-2020** - Rubygarage - Zanie.app
 
-- Ruby ORM, Ruby Frameworks, Ruby, Rspec, Capybara, AngularJS, Amazon Web Services, PostgreSQL
-
-**Team:**
-
-- Team: 2 Fullstack Developers, 1 Q&A, 1 BA
-
----
-
-**Dec-2016 - Sep-2020** - Rubygarage - Zanie.app
-
-**Project Roles:** Middle RoR Developer, Senior RoR Developer, Lead Developer
-
-**Client:** Zanie CTO
-
-**Project Description:** Zanie.app - Slack bot for building strong teams by facilitating meaningful conversations between coworkers
+**Project Roles:** Middle RoR Developer, Senior RoR Developer, Lead Developer\
+**Client:** Zanie CTO\
+**Project Description:** Zanie.app - Slack bot for building strong teams by facilitating meaningful conversations between coworkers\
+**Tools and Technologies:** Terraform, Sentry, Ruby ORM, Ruby Libraries, Ruby Frameworks, Ruby, Rspec, Redux, Redis Pub/Sub, Redis, React Router, ReactJS, Elasticsearch, Chef, Capybara, Capistrano, AWS Simple Queue Service, AWS Simple Notification Service, AWS.Database, Apache ActiveMQ Classic, Amazon Web Services, PostgreSQL\
+**Team:** 4 Fullstack Developers, 1 Q&A, 1 BA, 1 PM
 
 **Responsibilities:**
 
@@ -232,23 +129,13 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Technical support for non-technical part of team
 - Deliver the source code to production/staging environment
 
-**Tools and Technologies:**
+### **Oct-2016 - Dec-2016** - Rubygarage - 100 Miles
 
-- Terraform, Sentry, Ruby ORM, Ruby Libraries, Ruby Frameworks, Ruby, Rspec, Redux, Redis Pub/Sub, Redis, React Router, ReactJS, Elasticsearch, Chef, Capybara, Capistrano, AWS Simple Queue Service, AWS Simple Notification Service, AWS.Database, Apache ActiveMQ Classic, Amazon Web Services, PostgreSQL
-
-**Team:**
-
-- Team: 4 Fullstack Developers, 1 Q&A, 1 BA, 1 PM
-
----
-
-**Oct-2016 - Dec-2016** - Rubygarage - 100 Miles
-
-**Project Roles:** Middle developer
-
-**Client:** 100 Miles CTO
-
-**Project Description:** 100 Miles - a social network for travelers
+**Project Roles:** Middle developer\
+**Client:** 100 Miles CTO\
+**Project Description:** 100 Miles - a social network for travelers\
+**Tools and Technologies:** VueJS, Ruby ORM, Ruby Frameworks, Ruby, Rspec, Circle CI, Chef, Capybara, Capistrano, Amazon Web Services, PostgreSQL\
+**Team:** 2 Fullstack Developers, 1 Q&A, 1 BA
 
 **Responsibilities:**
 
@@ -258,23 +145,13 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Provide an integrations with 3-Party services
 - Develop the frontend side of project using Vue.js
 
-**Tools and Technologies:**
+### **Apr-2014 - Oct-2016** - EUROGOLD
 
-- VueJS, Ruby ORM, Ruby Frameworks, Ruby, Rspec, Circle CI, Chef, Capybara, Capistrano, Amazon Web Services, PostgreSQL
-
-**Team:**
-
-- 2 Fullstack Developers, 1 Q&A, 1 BA
-
----
-
-**Apr-2014 - Oct-2016** - EUROGOLD
-
-**Project Roles:** Full-stack Developer
-
-**Client:** Eurogold owner
-
-**Project Description:** Website for selling jewelry
+**Project Roles:** Full-stack Developer\
+**Client:** Eurogold owner\
+**Project Description:** Website for selling jewelry\
+**Tools and Technologies:** PHP, MooTools, jQuery, Composer [PHP], MySQL\
+**Team:** 3 FullStack Developer, Q&A, BA
 
 **Responsibilities:**
 
@@ -285,13 +162,121 @@ All the time, I strive to keep abreast of the latest web technologies and consta
 - Code review of team members
 - Leading a small team
 
-**Tools and Technologies:**
+## CERTIFICATES AND TRAININGS
 
-- PHP, MooTools, jQuery, Composer [PHP], MySQL
+- EPAM: AI Literacy Program, 2024
+- Microsoft: Microsoft Certified: Azure Developer Associate (AZ-204), 2024
+- EPAM: Switch to golang mentorship program, 2022
 
-**Team:**
+## SKILLS
 
-- Team: 3 FullStack Developer, Q&A, BA
+### **Languages**
+- Ukrainian (Native),
+- English (B2)
+
+---
+
+### **👨‍💼 Leadership & Management**
+
+#### **Technical Leadership**
+- Team Leadership (up to 9 members)
+- Software Engineering Management
+- Technical Mentoring & Developing Others
+- Engineering Excellence & Best Practices
+
+#### **People Management**
+- Onboarding & Adaptation
+- Performance Management & Motivation
+- Conflict Resolution & Team Building
+- EPAM People Management Processes
+
+#### **Soft Skills**
+- **Strategic:** Driving Change & Innovation, Business Acumen, Critical Thinking
+- **Collaborative:** Teamwork, Consultancy, Accountability, Problem-Solving
+- **Personal:** Adaptability, Continuous Learning, Self-Management, Ownership
+- **Inclusive:** Diversity, Equity, and Inclusion
+
+#### **Project Management**
+- Scrum Master & Agile Methodologies
+- Quality Management
+- Resource Planning & Estimation
+<!-- - **Business Communication:** Interviewing, Negotiations, Conflict Management, Meeting Facilitation -->
+
+#### **Project Management & Collaboration**
+- **Tools:** Atlassian Jira, Slack
+- **Standards:** REST API, OpenAPI Specification
+- **Methodologies:** Scrum, Agile, Kanban
+
+---
+
+### **🛠️ Technical Skills**
+
+#### **Software Engineering**
+
+- **Design Princeples:** SOLID, DRY, YAGNI,KISS, Clean Code
+- **Development Practices:** Agile Methodologies, Code Review, Testing, CI/CD, Security
+- **Architecture:** Monolithic, Microservices, Event-Driven Architecture, Layered Architecture, Hexagonal Architecture
+- **Data & Algorithms:** Data Structures, Algorithms & Data Structures
+- **Communication Protocols:** gRPC, REST API, WebSocket, MQTT, TCP/IP, HTTP/2, HTTP/3
+- **Performance:** Profiling, Troubleshooting, Debugging
+
+#### **Programming Languages** ⭐ *Primary Expertise*
+- **Ruby** ⭐ (10+ years commercial experience)
+  - Ruby on Rails, RubyGems, RailsEngine
+  - ActiveRecord, Grape, Sidekiq, Devise
+  - Rspec, Capybara, FactoryBot, Byebug
+  - Ruby-JWT, Carrierwave, EventMachine
+- **JavaScript/TypeScript**
+  - ECMAScript, Node.js, TypeScript
+  - React, AngularJS, Vue
+  - HTML, CSS, SASS/SCSS
+- **Go Language**
+  - Echo
+- **Python**
+  - FastAPI
+- **PHP**
+  - Laravel, OWOX
+- **UNIX Shell Scripting**
+
+#### **Databases & Data Storage**
+- **Relational:** PostgreSQL, MySQL, SQLite
+- **NoSQL:** MongoDB, Redis, Azure Cosmos DB
+- **Search:** Elasticsearch
+- **Message Queues:** Apache ActiveMQ, Kafka, Redis Pub/Sub, AWS SQS, AWS, SNS
+
+#### **Cloud & DevOps**
+- **Cloud Platforms:**
+  - Amazon Web Services (AWS)
+  - Microsoft Azure (Certified AZ-204)
+  - Google Cloud Platform
+- **Azure Services:**
+  - Azure Functions, Container Instances, Event Grid
+  - Azure CLI, Container Registry, API Management
+  - Azure App Configuration, Cost Management
+- **AWS Services:**
+  - EC2, ECS, Lambda,
+  - S3, RDS, ElastiCache, SQS, SNS
+  - Route 53, VPC, ELB, API Gateway, CloudFront
+  - IAM, Secrets Manager, CloudWatch
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitLab CI, Circle CI, ArgoCD, Tekton Pipelines
+- **Infrastructure as Code:** Terraform, Chef, Capistrano
+
+#### **Development Tools & Environment**
+- **Version Control:** Git, GitHub, GitLab, Gitflow
+- **Code Quality:** RuboCop, Simplecove, ESLint
+- **Testing:** Unit Testing, Integration Testing, E2E Testing
+  - Rspec, Capybara
+  - Mocha, Playwright
+- **Documentation:** OpenAPI Specification (OAS), API Documentation
+
+#### **AI**
+- **Basics:** Fundamentals, LLMs, Pair Programming, Prompt Engineering, RAG, LangChain
+- **Providers**: OpenAI, Anthropic, DIAL
+- **Agentic IDE**: Cursor, Zed
+- **Tools**:
+
+ ---
 
 ## EDUCATION
 
