@@ -45,7 +45,7 @@
 - Communicated effectively with the customer team to align on goals, requirements, and deliverables
 - Developed new features to enhance application functionality and meet user requirements
 
-### **💼 Jan-2024 - May-2024** - EPAM Systems, <https://www.epam.com/>
+### **💼 Jan-2024 - May-2024** - EPAM Systems
 
 **Project Roles:** Key Developer\
 **Client:** Ticketmaster\
@@ -60,7 +60,7 @@
 - Developed new features to meet project requirements and improve user experience
 - Supported the team lead with activities such as client communication, SCRUM processes, and project discovery
 
-### **💼 Mar-2022 - Dec-2023** - EPAM Systems, <https://www.epam.com/>
+### **💼 Mar-2022 - Dec-2023** - EPAM Systems
 
 **Project Roles:** Key Developer\
 **Client:** Oracle Health\
@@ -78,7 +78,7 @@
 - Code reviews
 - Supporting team lead
 
-### **💼 Feb-2021 - Mar-2022** - EPAM Systems, <https://www.epam.com/>
+### **💼 Feb-2021 - Mar-2022** - EPAM Systems
 
 **Project Roles:** Key Developer\
 **Client:** Oracle Health\
@@ -129,7 +129,7 @@
 - Technical support for non-technical part of team
 - Deliver the source code to production/staging environment
 
-### **🌍 Oct-2016 - Dec-2016** - Rubygarage - 100 Miles
+### **💼 Oct-2016 - Dec-2016** - Rubygarage - 100 Miles
 
 **Project Roles:** Middle developer\
 **Client:** 100 Miles CTO\
@@ -168,9 +168,9 @@
 - **Ukrainian** (Native)
 - **English** (B2)
 
-### **Leadership & Soft Skills**
+### **🚀 Leadership & Soft Skills**
 
-#### **🚀 Engineering Leadership**
+#### **Engineering Leadership**
 - Technical Team Leadership (up to 9 members)
 - Cross-functional Team Coordination
 - Technical Decision Making & Architecture Guidance
@@ -178,7 +178,7 @@
 - Technical Mentoring & Knowledge Transfer
 - Code Review Leadership & Quality Standards
 
-#### **👥 People Management & Development**
+#### **People Management & Development**
 - Performance Management & Career Development
 - Talent Acquisition & Technical Interviewing
 - Team Onboarding & Skills Assessment
@@ -186,7 +186,7 @@
 - Individual Coaching & Mentoring
 - Team Building & Motivation Strategies
 
-#### **💬 Communication & Stakeholder Management**
+#### **Communication & Stakeholder Management**
 - Technical Communication to Non-technical Audiences
 - Customer & Client Relationship Management
 - Cross-team Collaboration & Alignment
@@ -194,7 +194,7 @@
 - Technical Presentation & Documentation
 - Negotiation & Influence Without Authority
 
-#### **📈 Strategic & Business Skills**
+#### **Strategic & Business Skills**
 - Technical Strategy & Roadmap Planning
 - Resource Planning & Capacity Management
 - Risk Assessment & Mitigation
@@ -202,7 +202,7 @@
 - Innovation & Change Management
 - Technical Debt Management
 
-#### **⚙️ Project & Process Leadership**
+#### **Project & Process Leadership**
 - Agile/Scrum Methodologies & Process Improvement
 - Project Planning & Timeline Estimation
 - Quality Assurance & Engineering Excellence
@@ -210,7 +210,7 @@
 - Technical Standards & Best Practices
 - Incident Response & Crisis Management
 
-#### **🌟 Personal Excellence**
+#### **Personal Excellence**
 - Continuous Learning & Technology Adaptation
 - Critical Thinking & Problem-Solving
 - Accountability & Ownership Mindset
@@ -220,7 +220,7 @@
 
 ### **🛠️ Technical Skills**
 
-#### **🏗️ Software Engineering**
+#### **Software Engineering**
 - **Design Principles:** SOLID, DRY, YAGNI, KISS, Clean Code
 - **Development Practices:** Agile Methodologies, Code Review, Testing, CI/CD, Security
 - **Architecture:** Monolithic, Microservices, Event-Driven Architecture, Layered Architecture, Hexagonal Architecture
@@ -228,7 +228,7 @@
 - **Communication Protocols:** gRPC, REST API, WebSocket, MQTT, TCP/IP, HTTP/2, HTTP/3
 - **Performance:** Profiling, Troubleshooting, Debugging
 
-#### **💻 Programming Languages** ⭐ *Primary Expertise*
+#### **Programming Languages**
 - **Ruby** ⭐ (10+ years commercial experience)
   - Ruby on Rails, RubyGems, Rails Engine
   - ActiveRecord, Grape, Sidekiq, Devise
@@ -237,22 +237,24 @@
 - **JavaScript/TypeScript**
   - ECMAScript, Node.js, TypeScript
   - React, AngularJS, Vue.js
-  - HTML, CSS, SASS/SCSS
-- **Go Language**
+- **Go**
   - Echo Framework
 - **Python**
   - FastAPI
 - **PHP** (2+ years)
-  - Laravel, Composer
-- **SQL & Shell Scripting**
+  - Laravel, Composer, OWOX, Symfony
+- **SQL**
+  - MySQL, PostgreSQL
+- **Other**
+  - HTML, CSS, SASS/SCSS, Bash, C++, Delphi
 
-#### **🗄️ Databases & Data Storage**
+#### **Databases & Data Storage**
 - **Relational:** PostgreSQL, MySQL, SQLite
 - **NoSQL:** MongoDB, Redis, Azure Cosmos DB
 - **Search:** Elasticsearch
 - **Message Queues:** Apache ActiveMQ, Kafka, Redis Pub/Sub, AWS SQS, AWS SNS
 
-#### **☁️ Cloud & DevOps**
+#### **Cloud & DevOps**
 - **Cloud Platforms:**
   - **Amazon Web Services (AWS)**
   - **Microsoft Azure** (Certified AZ-204)
@@ -270,7 +272,7 @@
 - **CI/CD:** Jenkins, GitLab CI, Circle CI, ArgoCD, Tekton Pipelines
 - **Infrastructure as Code:** Terraform, Chef, Capistrano
 
-#### **🔧 Development Tools & Environment**
+#### **Development Tools & Environment**
 - **Version Control:** Git, GitHub, GitLab, Gitflow
 - **Code Quality:** RuboCop, Simplecov, ESLint
 - **Testing Frameworks:**

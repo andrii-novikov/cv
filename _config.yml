@@ -3,7 +3,15 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Andrii Novikov
-description: Lead Software Engineer
+description: |
+  <h3>Lead Software Engineer</h3>
+
+  <ul style="list-style-type: none; padding: 0;">
+    <li>✉️ <a target="_blank" href="mailto:andrii.novikov@gmail.com">andrii.novikov@gmail.com</a></li>
+    <li >🔗 <a target="_blank" href="https://www.linkedin.com/in/andrii-novikov-652197156/">LinkedIn</a> </li>
+    <li>🔗 <a target="_blank" href="https://github.com/andrii-novikov">GitHub</a></li>
+  </ul>
+
 logo: /assets/an.jpeg
 show_downloads: false
 # google_analytics:
