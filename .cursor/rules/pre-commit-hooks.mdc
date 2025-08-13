@@ -1,0 +1,32 @@
+---
+description: Pre-commit hook setup and behavior for README date check
+---
+# Pre-commit Hooks
+
+This repo uses the pre-commit framework to run checks locally before each commit.
+
+Setup (per machine)
+```bash
+pip3 install pre-commit
+pre-commit install
+# If not on PATH:
+python3 -m pre_commit install
+```
+
+Manual runs
+```bash
+pre-commit run                    # staged files
+pre-commit run --all-files        # all files
+pre-commit run readme-date-check  # single hook
+```
+
+Included hooks
+- README Date Check: Ensures `README.md` contains `Last updated: Month YYYY` matching the current date (English month names via `LC_TIME=C`).
+
+Key files
+- Config: [.pre-commit-config.yaml](mdc:.pre-commit-config.yaml)
+- Script: [scripts/check_readme_date.sh](mdc:scripts/check_readme_date.sh)
+
+Notes
+- If `README.md` is staged and the date is outdated/missing, the commit will fail with guidance.
+- To bypass in emergencies: `git commit --no-verify -m "..."` (not recommended).

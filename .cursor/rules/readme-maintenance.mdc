@@ -1,0 +1,18 @@
+---
+globs: README.md
+---
+# README Maintenance
+
+Always keep the final line up to date with the current month and year in English locale.
+
+Required format
+```
+Last updated: Month YYYY
+```
+
+Examples
+- `Last updated: August 2025`
+
+Notes
+- The pre-commit hook validates this line when `README.md` is modified.
+- Month names must be English (en_US); the tooling uses `LC_TIME=C`.

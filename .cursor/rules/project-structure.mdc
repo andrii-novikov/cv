@@ -1,0 +1,18 @@
+---
+alwaysApply: true
+---
+# Project Structure Guide
+
+This repository is a CV site (Jekyll-based) with documentation and developer tooling.
+
+- Main CV content: [README.md](mdc:README.md)
+- Developer docs: [README_DEV.md](mdc:README_DEV.md)
+- Jekyll configuration: [_config.yml](mdc:_config.yml)
+- Assets (images, styles): `assets/`
+- Pre-commit configuration: [.pre-commit-config.yaml](mdc:.pre-commit-config.yaml)
+- README date check script: [scripts/check_readme_date.sh](mdc:scripts/check_readme_date.sh)
+
+Notes
+- Commits should follow Conventional Commits.
+- The README must end with a line in the format: `Last updated: Month YYYY` (English locale).
+- The pre-commit hook enforces the README date when README.md is modified.
