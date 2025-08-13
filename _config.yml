@@ -12,6 +12,10 @@ description: |
     <li>🔗 <a target="_blank" href="https://github.com/andrii-novikov">GitHub</a></li>
   </ul>
 
+  <div class="generate-pdf-wrapper">
+    <a href="#" class="generate-pdf-button" aria-label="Generate PDF" onclick="window.print(); return false;">Generate PDF</a>
+  </div>
+
 logo: /assets/an.jpeg
 show_downloads: false
 # google_analytics:
