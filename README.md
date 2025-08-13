@@ -23,6 +23,19 @@
 
 ## WORK EXPERIENCE
 
+### **💼 Jul-2025 - Now** - EPAM Systems
+
+**Project Roles:** Engineering Team Lead\
+**Client:** Aglient - iLab
+**Client Description:** Life Sciences Technology
+**EPAM Project Description:** Agilent's iLab is a web-based asset and laboratory management software designed to centralize and streamline the operations of research core facilities and other shared resource laboratories. 
+**Tools and Technologies:** Ruby, RubyOnRails, PostgreSQL, AWS
+**Team:** BA, 2 QA, 3 Full-stack Ruby developer, Data Integration Engineer, Architect
+
+**Responsibilities:**
+- Assist a Delivery Manager to form a team
+- Interview candidates
+
 ### **💼 May-2024 - Jul-2025** - EPAM Systems
 
 **Project Roles:** Engineering Team Lead, Developer\
@@ -282,8 +295,8 @@
 - **IDEs:** Cursor, VS Code, RubyMine
 
 #### **🤖 AI & Modern Technologies**
-- **AI Fundamentals:** LLMs, Pair Programming, Prompt Engineering
-- **AI Tools:** RAG, LangChain
+- **AI Fundamentals:** LLMs, Pair Programming, Prompt Patterns, AI guardrails
+- **AI Tools:** RAG, LangChain, FAISS, PgVector, Agents, Tools, MCP
 - **AI Providers:** OpenAI, Anthropic, DIAL
 - **AI-Enhanced Development:** Cursor, GitHub Copilot
 
@@ -291,9 +304,10 @@
 
 ## 🏆 CERTIFICATES AND TRAININGS
 
+- **EPAM:**  AI Development Fundamentals: built a DIAL chat agent with various tools using tools and MCP, 2025
 - **EPAM:** AI Literacy Program, 2024
 - **Microsoft:** Microsoft Certified: Azure Developer Associate (AZ-204), 2024
-- **EPAM:** Switch to Golang Mentorship Program, 2022
+- **EPAM:** Switch to Golang Mentorship Program: built a simple chat application, 2022
 - **Rubygarage:** Dive into Ruby, 2016
 
 ---
@@ -307,4 +321,4 @@
 
 ---
 
-*Last updated: July 2025*
+*Last updated: August 2025*
