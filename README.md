@@ -28,13 +28,15 @@
 **Project Roles:** Engineering Team Lead\
 **Client:** Aglient - iLab
 **Client Description:** Life Sciences Technology
-**EPAM Project Description:** Agilent's iLab is a web-based asset and laboratory management software designed to centralize and streamline the operations of research core facilities and other shared resource laboratories. 
-**Tools and Technologies:** Ruby, RubyOnRails, PostgreSQL, AWS
+**EPAM Project Description:** Agilent's iLab is a web-based asset and laboratory management software designed to centralize and streamline the operations of research core facilities and other shared resource laboratories.
+**Tools and Technologies:** Ruby, RubyOnRails, MariaDB, Solr/Sunspot, Redis, jQuery
 **Team:** BA, 2 QA, 3 Full-stack Ruby developer, Data Integration Engineer, Architect
 
 **Responsibilities:**
 - Assist a Delivery Manager to form a team
 - Interview candidates
+- Drive technical excellence and mentor junior developers
+- Refine and plan how to implement new features to legacy systems
 
 ### **💼 May-2024 - Jul-2025** - EPAM Systems
 
@@ -284,6 +286,7 @@
 - **Containerization:** Docker, Kubernetes
 - **CI/CD:** Jenkins, GitLab CI, Circle CI, ArgoCD, Tekton Pipelines
 - **Infrastructure as Code:** Terraform, Chef, Capistrano
+- **Infrastructure**: Traefik, Nginx
 
 #### **Development Tools & Environment**
 - **Version Control:** Git, GitHub, GitLab, Gitflow
@@ -296,9 +299,9 @@
 
 #### **🤖 AI & Modern Technologies**
 - **AI Fundamentals:** LLMs, Pair Programming, Prompt Patterns, AI guardrails
-- **AI Tools:** RAG, LangChain, FAISS, PgVector, Agents, Tools, MCP
+- **AI Tools:** RAG, LangChain, FAISS, PgVector, Agents, Tools, MCP, n8n
 - **AI Providers:** OpenAI, Anthropic, DIAL
-- **AI-Enhanced Development:** Cursor, GitHub Copilot
+- **AI-Enhanced Development:** Cursor, GitHub Copilot, Claude Code
 
 ---
 
@@ -321,4 +324,4 @@
 
 ---
 
-*Last updated: August 2025*
+*Last updated: October 2025*

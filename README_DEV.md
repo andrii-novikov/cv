@@ -19,6 +19,7 @@ This repository uses [pre-commit](https://pre-commit.com/) framework to ensure c
 1. **Install pre-commit framework:**
    ```bash
    pip3 install pre-commit
+   pip3 install pre-commit
    # or
    python3 -m pip install pre-commit
    ```
