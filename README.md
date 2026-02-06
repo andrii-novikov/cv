@@ -26,11 +26,11 @@
 ### **💼 Jul-2025 - Feb-2026** - EPAM Systems
 
 **Project Roles:** Engineering Team Lead\
-**Client:** Aglient - iLab
-**Client Description:** Life Sciences Technology
-**EPAM Project Description:** Agilent's iLab is a web-based asset and laboratory management software designed to centralize and streamline the operations of research core facilities and other shared resource laboratories.
-**Tools and Technologies:** Ruby, RubyOnRails, MariaDB, Solr/Sunspot, Redis, jQuery
-**Team:** BA, 2 QA, 3 Full-stack Ruby developer, Data Integration Engineer, Architect
+**Client:** Aglient - iLab\
+**Client Description:** Life Sciences Technology\
+**EPAM Project Description:** Agilent's iLab is a web-based asset and laboratory management software designed to centralize and streamline the operations of research core facilities and other shared resource laboratories.\
+**Tools and Technologies:** Ruby, RubyOnRails, MariaDB, Solr/Sunspot, Redis, jQuery\
+**Team:** BA, 2 QA, 3 Full-stack Ruby developer, Data Integration Engineer, Architect\
 
 **Responsibilities:**
 - Assisted the Delivery Manager in forming and structuring a cohesive development team.  
