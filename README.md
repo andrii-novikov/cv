@@ -33,10 +33,14 @@
 **Team:** BA, 2 QA, 3 Full-stack Ruby developer, Data Integration Engineer, Architect
 
 **Responsibilities:**
-- Assist a Delivery Manager to form a team
-- Interview candidates
-- Drive technical excellence and mentor junior developers
-- Refine and plan how to implement new features to legacy systems
+- Assisted the Delivery Manager in forming and structuring a cohesive development team.  
+- Conducted interviews to assess and select candidates based on technical and cultural fit.  
+- Drove technical excellence across the team and provided mentorship to junior developers.  
+- Planned and refined implementation strategies for integrating new features into legacy systems.  
+- Led a team of 3 developers and 2 QA engineers to ensure efficient collaboration and delivery.  
+- Oversaw the development and execution of new features within the application.  
+- Performed detailed code reviews to maintain high-quality standards and optimize performance.  
+- Communicated effectively with the customer team to align on requirements and deliverables.  
 
 ### **💼 May-2024 - Jul-2025** - EPAM Systems
 
