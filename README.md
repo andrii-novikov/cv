@@ -23,7 +23,7 @@
 
 ## WORK EXPERIENCE
 
-### **💼 Jul-2025 - Now** - EPAM Systems
+### **💼 Jul-2025 - Feb-2026** - EPAM Systems
 
 **Project Roles:** Engineering Team Lead\
 **Client:** Aglient - iLab
