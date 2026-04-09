@@ -311,6 +311,7 @@
 
 ## 🏆 CERTIFICATES AND TRAININGS
 
+- **Anthropic:** [Early Adopter: Claude Certified Architect – Foundations](https://verify.skilljar.com/c/g9da9k825xco), 2026
 - **EPAM:**  AI Development Fundamentals: built a DIAL chat agent with various tools using tools and MCP, 2025
 - **EPAM:** AI Literacy Program, 2024
 - **Microsoft:** Microsoft Certified: Azure Developer Associate (AZ-204), 2024
@@ -328,4 +329,4 @@
 
 ---
 
-*Last updated: October 2025*
+*Last updated: April 2026*
