@@ -23,6 +23,19 @@
 
 ## WORK EXPERIENCE
 
+### **💼 March-2026 - Present** - EPAM Systems
+
+**Project Roles:** Software Engineer\
+**Client:** EPAM Internal — [DIAL](https://dialx.ai/)\
+**Client Description:** Enterprise AI Platform\
+**EPAM Project Description:** AI DIAL is an enterprise-grade open-source platform for secure LLM orchestration. The QuickApps module is a composer for building DIAL applications from reusable tools — enabling declarative wiring of LLM orchestrators, MCP servers, and REST APIs via JSON-schema-validated manifests.\
+**Tools and Technologies:** Python, FastAPI, Injector, Poetry, Docker, pytest, MCP (Model Context Protocol), Azure OpenAI, Anthropic, Vertex AI\
+**Team:** Cross-functional AI platform team
+
+**Responsibilities:**
+- Develop and maintain the QuickApps backend — a framework for composing AI applications from reusable tools and integrations
+- Write unit and integration tests using pytest; maintain code quality with Black, isort, flake8, mypy
+
 ### **💼 Jul-2025 - Feb-2026** - EPAM Systems
 
 **Project Roles:** Engineering Team Lead\
