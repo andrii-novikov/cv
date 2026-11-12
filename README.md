@@ -2,10 +2,11 @@
 
 ## SUMMARY
 
-**Experienced Lead Software Engineer** with **10+ years** in the industry and deep expertise in **Ruby** ecosystem. Started career with PHP (2 years) before transitioning to Ruby, becoming a technical leader.
+**Experienced Lead Software Engineer** with **10+ years** in the industry and deep expertise in **Ruby** ecosystem. Started career with PHP (2 years) before transitioning to Ruby, becoming a technical leader. Currently leading a backend team building an **AI agent platform** in **Python**.
 
 **🔧 Technical Expertise:**
-- Full-stack web development with Ruby on Rails, JavaScript/TypeScript, and modern cloud technologies
+- AI agent platforms: LLM integration, agentic workflows, MCP, prompt and context engineering
+- Full-stack web development with Ruby on Rails, Python, JavaScript/TypeScript, and modern cloud technologies
 - Strong experience with microservices architecture, RESTful APIs, and automated testing
 - Proficient in CI/CD, Cloud platforms (AWS, Azure, GCP), and DevOps practices
 
@@ -17,13 +18,34 @@
 **🌱 Continuous Learning:**
 - Passionate about staying current with latest web technologies and development practices
 - Personal interests: DevOps (home lab), IoT, drones, electronics design, and **Artificial Intelligence**
-- Actively building AI-powered projects and exploring modern development tools
+- Actively building AI-powered products and introducing AI-assisted development practices in teams
 
 ---
 
 ## WORK EXPERIENCE
 
-### **💼 March-2026 - Present** - EPAM Systems
+### **💼 Jul-2026 - Present** - EPAM Systems
+
+**Project Roles:** Engineering Team Lead, Developer\
+**Client:** EPAM Internal — [DIAL](https://dialx.ai/)\
+**Client Description:** Enterprise AI Platform\
+**EPAM Project Description:** AI DIAL is an enterprise-grade open-source platform for secure LLM orchestration. QuickApps 2.0 is DIAL's no-code agent builder: users combine LLMs with tools (REST APIs, MCP servers, DIAL deployments) and reusable skills through JSON-schema-validated manifests.\
+**Tools and Technologies:** Python, FastAPI, Pydantic, Injector, Poetry, Docker, Kubernetes, GitHub Actions, pytest, MCP (Model Context Protocol), Azure OpenAI, Anthropic, Vertex AI, Claude Code\
+**Team:** 4 BE developers
+
+**Responsibilities:**
+- Lead the QuickApps backend team: plan and prioritise the work and keep delivery on track
+- Define the technical direction and architecture of the product
+- Prepare design documents and technical solutions for new features
+- Design and develop core functionality of the AI agent platform
+- Review code to maintain architectural consistency and high code quality
+- Coordinate with related teams on integration and cross-project features
+- Encourage AI-assisted development practices within the team
+- Mentor team members and help onboard new engineers
+- Investigate production issues and drive their resolution
+- Communicate with stakeholders to align on requirements, priorities and deliverables
+
+### **💼 Mar-2026 - Jun-2026** - EPAM Systems
 
 **Project Roles:** Software Engineer\
 **Client:** EPAM Internal — [DIAL](https://dialx.ai/)\
@@ -34,12 +56,13 @@
 
 **Responsibilities:**
 - Develop and maintain the QuickApps backend — a framework for composing AI applications from reusable tools and integrations
-- Write unit and integration tests using pytest; maintain code quality with Black, isort, flake8, mypy
+- Develop agent tools and file-handling capabilities for AI applications
+- Write unit and integration tests; maintain code quality and static type checks
 
 ### **💼 Jul-2025 - Feb-2026** - EPAM Systems
 
 **Project Roles:** Engineering Team Lead\
-**Client:** Aglient - iLab\
+**Client:** Agilent - iLab\
 **Client Description:** Life Sciences Technology\
 **EPAM Project Description:** Agilent's iLab is a web-based asset and laboratory management software designed to centralize and streamline the operations of research core facilities and other shared resource laboratories.\
 **Tools and Technologies:** Ruby, RubyOnRails, MariaDB, Solr/Sunspot, Redis, jQuery\
@@ -272,7 +295,7 @@
 - **Go**
   - Echo Framework
 - **Python**
-  - FastAPI
+  - FastAPI, Pydantic, Injector, Poetry, pytest, mypy
 - **PHP** (2+ years)
   - Laravel, Composer, OWOX, Symfony
 - **SQL**
@@ -315,10 +338,11 @@
 - **IDEs:** Cursor, VS Code, RubyMine
 
 #### **🤖 AI & Modern Technologies**
-- **AI Fundamentals:** LLMs, Pair Programming, Prompt Patterns, AI guardrails
-- **AI Tools:** RAG, LangChain, FAISS, PgVector, Agents, Tools, MCP, n8n
-- **AI Providers:** OpenAI, Anthropic, DIAL
-- **AI-Enhanced Development:** Cursor, GitHub Copilot, Claude Code
+- **AI Fundamentals:** LLMs, Pair Programming, Prompt Engineering, Context Engineering, AI guardrails
+- **Agentic AI:** Agent Platforms, Agentic Workflows, Tool Calling, Agent Skills, MCP (Model Context Protocol)
+- **AI Tools:** RAG, LangChain, FAISS, PgVector, n8n
+- **AI Providers:** OpenAI, Anthropic, Google Vertex AI, AI DIAL
+- **AI-Enhanced Development:** Claude Code (custom skills, hooks, MCP integrations), Cursor, GitHub Copilot
 
 ---
 
@@ -342,4 +366,4 @@
 
 ---
 
-*Last updated: April 2026*
+*Last updated: November 2026*
